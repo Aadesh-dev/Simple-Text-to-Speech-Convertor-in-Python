@@ -1,0 +1,2 @@
+# Simple-Text-to-Speech-Convertor-in-Python
+This is a simple text to speech convertor implemented in Python using Tkinter GUI. It can convert text entered manually and also text contained in files such as .txt and PDF files which can be uploaded from the file system. It can also convert simple text present in PNG and JPG image files using Tesseract OCR. The converted text can either be listened directly or can be saved on the system as a mp3 file. The volume and speed of audio playback can also be controlled using sliders.
